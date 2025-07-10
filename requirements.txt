@@ -1,0 +1,8 @@
+cs50
+matplotlib
+pandas
+flask
+pytest
+numpy
+scikit-learn
+torch
